@@ -1,0 +1,6 @@
+Engineering; Autonomous Vehicle Control Systems;Dr. John Smith;informatic
+Master;Machine Learning for Healthcare;Dr. Jane Doe
+Doctoral;Quantum Computing Algorithms;Dr. Alice Johnson
+Engineering;Renewable Energy Systems;Dr. Robert Brown
+Master;Data Privacy in Cloud Computing;Dr. Emily White
+Doctoral;Advanced AI Techniques;Dr. Michael Green
